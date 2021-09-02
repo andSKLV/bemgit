@@ -1,0 +1,7 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    min-width: 90vw;
+}
